@@ -1,0 +1,8 @@
+PROJECT(NEWHELLO)
+INCLUDE_DIRECTORIES(/usr/include/print)
+FIND_PATH(myHeader print.h)
+IF(myHeader)
+	INCLUDE_DIRECTORIES(${myHeader})
+ENDIF(myHeader)
+ADD_EXECUTABLE(main main.cc)
+TARGET_LINK_LIBRARIES(main print)

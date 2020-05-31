@@ -1,0 +1,5 @@
+/home/jameszhang/cmake/cmake-lib-using/build/CMakeFiles/rebuild_cache.dir
+/home/jameszhang/cmake/cmake-lib-using/build/CMakeFiles/edit_cache.dir
+/home/jameszhang/cmake/cmake-lib-using/build/bin/CMakeFiles/rebuild_cache.dir
+/home/jameszhang/cmake/cmake-lib-using/build/bin/CMakeFiles/main.dir
+/home/jameszhang/cmake/cmake-lib-using/build/bin/CMakeFiles/edit_cache.dir
